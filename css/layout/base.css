@@ -6,11 +6,17 @@
    
    
    :root {
-      --gradient: linear-gradient(to bottom, #FF2459 25%, #EA4A70 75%);
+      --gradient: linear-gradient(to bottom, #FF2459 25%, #FF4365 75%);
       font-family: 'Poppins', sans-serif;
-  
+      --cor-preta: #151515;
+      --cor-azul: #10121D;
+      --cor-rosa: #FF2459;
+      --cor-rosa-claro: #FF4365;
+      --cor-bege: #FFEDED;
     }
 
     html {
       scroll-behavior: smooth; 
   }
+
+ 

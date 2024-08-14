@@ -1,6 +1,6 @@
 footer{
     height: 90px;
-    background-color: #10121D;
+    background-color: var(--cor-azul);
     display: flex;
     justify-content: center;
     align-items: center;
