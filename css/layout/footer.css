@@ -1,0 +1,11 @@
+footer{
+    height: 90px;
+    background-color: #10121D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#rodape {
+    color: white;
+}

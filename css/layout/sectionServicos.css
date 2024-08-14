@@ -1,0 +1,62 @@
+#tituloServicos{
+    font-size: 36px;
+    color: #FF2459;
+    width: 200px;
+    text-align: center;
+}
+
+h3 {
+    color: #FF2459;
+    font-size: 12px;
+    text-align: center;
+    font-weight: 800;
+}
+
+#Servicos {
+    height: 450px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  
+}
+
+#containersServicos {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.nossosServicos{
+    width: 200px;
+    height: 250px;
+    box-shadow: 0 0px 6px gray;
+    border-radius: 12px;
+    padding: 15px;
+    flex-direction: column;
+    position: relative;
+    z-index: 2;
+    background-color: white;
+    margin-left: 27.5px;
+}
+
+
+.icons{
+    height: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subtitulosServicos {
+    height: 35%;
+}
+
+#linhaRosa{
+    width: 60%;
+    height: 50px;
+    background-color: #FF2459;
+    position: absolute;
+    z-index: 1;
+}
+
+

@@ -1,0 +1,34 @@
+#Objetivo {
+    height: 450px;
+    background:  var(--gradient);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.imagens {
+    width: 300px;
+    height: 300px;
+}
+
+.nossoObjetivo {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    color: white;
+}
+
+#tituloObjetivo{
+    font-size: 24px;
+    width: 200px;
+    text-align: center;
+}
+
+.descricoes {
+    text-align: center;
+    line-height: 1.3;
+}
